@@ -1,0 +1,22 @@
+
+
+.image1,.image2,.image3{height: 400px;width: 500;}
+body{font-family: Georgia;background-color: whitesmoke; font-size: 18px;padding: 30px;width: 950px; text-align: center;}
+
+p{font-size: 18px;padding: 10px 10px; margin: 20px; margin:20px 20px;
+    margin: 0 auto;text-align: justify; min-width: 400px;
+    max-width: 700px;letter-spacing: 1px;font-family: 'Space Mono', monospace;}
+
+h1{text-align: center;text-transform: uppercase;}
+.footer{background-color: rgb(216, 216, 236);font-size: 18px;padding: 10px;}
+.caption{opacity: 1;font-size: 8; font-family: cursive;
+}
+.heading,h2,h3{font-size: 18px; text-align: center;margin: 20px 20px; padding: 20 20;}
+h5{text-align: left;}
+.table{
+    margin: 10 0;word-spacing: o.3em;
+}
+.comment{border:  1px solid blue;}
+.bodycontent{margin: 0px auto;}
+
+  
